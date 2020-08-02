@@ -9855,3 +9855,7 @@ form .row:first-child .floating-label-form-group {
 img {
   max-width: 100%;
 }
+
+.page-section .page-section-heading {
+  padding-top: 3rem;
+}
